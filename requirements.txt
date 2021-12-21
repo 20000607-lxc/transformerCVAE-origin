@@ -6,3 +6,4 @@ rake-nltk
 scipy
 sklearn
 wandb
+rouge
