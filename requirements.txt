@@ -1,0 +1,7 @@
+transformers==2.7
+tensorboardX
+torch
+unidecode
+rake-nltk
+scipy
+sklearn
