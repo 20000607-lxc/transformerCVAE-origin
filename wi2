@@ -12,7 +12,7 @@
 #SBATCH --mail-user=318112194@qq.com
 #SBATCH --gres=gpu:1
 
-cd /scratch/zt2080/shizhe/eres/TransformerCVAE
+cd /scratch/zt2080/shizhe/eres/transformerCVAE-origin
 python train.py\
     --use_wandb\
     --iterations=50000\
